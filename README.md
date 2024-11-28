@@ -9,4 +9,4 @@ A static clone of the Netflix user interface, designed using HTML and CSS. The p
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-ui-clone.git
+   git clone https://github.com/Kaviyamadeshvaran/Netflix_clone.git
